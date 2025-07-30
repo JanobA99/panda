@@ -1,0 +1,115 @@
+{
+  "@@locale": "ru",
+  "appName": "PANDA",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "chooseLanguage": "Выберите язык приложения",
+  "@chooseLanguage": {
+    "description": "Text for language selection"
+  },
+  "uzbek": "O'zbekcha",
+  "@uzbek": {
+    "description": "Uzbek language option"
+  },
+  "russian": "Русский",
+  "@russian": {
+    "description": "Russian language option"
+  },
+  "continueText": "Продолжить",
+  "@continueText": {
+    "description": "Continue button text"
+  },
+  "allowLocationAccess": "Разрешите доступ к геопозиции",
+  "@allowLocationAccess": {
+    "description": "Location permission request title"
+  },
+  "locationDescription": "Так мы сможем показать интересные предложения и пункты выдачи-приёма рядом с вами",
+  "@locationDescription": {
+    "description": "Location permission description"
+  },
+  "allowAccess": "Разрешить доступ",
+  "@allowAccess": {
+    "description": "Allow access button text"
+  },
+  "specifyLocation": "Указать местоположение",
+  "@specifyLocation": {
+    "description": "Specify location button text"
+  },
+  "location": "Местоположение",
+  "@location": {
+    "description": "Location page title"
+  },
+  "search": "Поиск",
+  "@search": {
+    "description": "Search placeholder text"
+  },
+  "selectRegion": "Выбрать область",
+  "@selectRegion": {
+    "description": "Select region section title"
+  },
+  "andijanRegion": "Андижанская область",
+  "@andijanRegion": {
+    "description": "Andijan region name"
+  },
+  "bukharaRegion": "Бухарская область",
+  "@bukharaRegion": {
+    "description": "Bukhara region name"
+  },
+  "jizzakhRegion": "Джизахская область",
+  "@jizzakhRegion": {
+    "description": "Jizzakh region name"
+  },
+  "karakalpakstan": "Каракалпакстан",
+  "@karakalpakstan": {
+    "description": "Karakalpakstan region name"
+  },
+  "navoiyRegion": "Навойиская область",
+  "@navoiyRegion": {
+    "description": "Navoiy region name"
+  },
+  "samarkandRegion": "Самаркадская область",
+  "@samarkandRegion": {
+    "description": "Samarkand region name"
+  },
+  "tashkentRegion": "Ташкентская область",
+  "@tashkentRegion": {
+    "description": "Tashkent region name"
+  },
+  "namanganRegion": "Наманганская область",
+  "@namanganRegion": {
+    "description": "Namangan region name"
+  },
+  "ferganaRegion": "Ферганская область",
+  "@ferganaRegion": {
+    "description": "Fergana region name"
+  },
+  "khorezmRegion": "Хорезмская область",
+  "@khorezmRegion": {
+    "description": "Khorezm region name"
+  },
+  "surkhandaryaRegion": "Сурхандарьинская область",
+  "@surkhandaryaRegion": {
+    "description": "Surkhandarya region name"
+  },
+  "syrdaryaRegion": "Сырдарьинская область",
+  "@syrdaryaRegion": {
+    "description": "Syrdarya region name"
+  },
+  "regions": "Регионы",
+  "@regions": {
+    "description": "Regions section title"
+  },
+  "allRegions": "Все регионы",
+  "@allRegions": {
+    "description": "All regions section"
+  },
+  "loading": "Загрузка...",
+  "@loading": {
+    "description": "Loading text"
+  },
+  "openSettings": "Открыть настройки",
+  "@openSettings": {
+    "description": "Open settings button text"
+  }
+} 

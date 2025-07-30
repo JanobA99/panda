@@ -1,0 +1,115 @@
+{
+  "@@locale": "en",
+  "appName": "PANDA",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "chooseLanguage": "Choose application language",
+  "@chooseLanguage": {
+    "description": "Text for language selection"
+  },
+  "uzbek": "O'zbekcha",
+  "@uzbek": {
+    "description": "Uzbek language option"
+  },
+  "russian": "Русский",
+  "@russian": {
+    "description": "Russian language option"
+  },
+  "continueText": "Continue",
+  "@continueText": {
+    "description": "Continue button text"
+  },
+  "allowLocationAccess": "Allow access to geolocation",
+  "@allowLocationAccess": {
+    "description": "Location permission request title"
+  },
+  "locationDescription": "This way we can show interesting offers and pick-up/drop-off points near you",
+  "@locationDescription": {
+    "description": "Location permission description"
+  },
+  "allowAccess": "Allow access",
+  "@allowAccess": {
+    "description": "Allow access button text"
+  },
+  "specifyLocation": "Specify location",
+  "@specifyLocation": {
+    "description": "Specify location button text"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location page title"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search placeholder text"
+  },
+  "selectRegion": "Select region",
+  "@selectRegion": {
+    "description": "Select region section title"
+  },
+  "andijanRegion": "Andijan Region",
+  "@andijanRegion": {
+    "description": "Andijan region name"
+  },
+  "bukharaRegion": "Bukhara Region",
+  "@bukharaRegion": {
+    "description": "Bukhara region name"
+  },
+  "jizzakhRegion": "Jizzakh Region",
+  "@jizzakhRegion": {
+    "description": "Jizzakh region name"
+  },
+  "karakalpakstan": "Karakalpakstan",
+  "@karakalpakstan": {
+    "description": "Karakalpakstan region name"
+  },
+  "navoiyRegion": "Navoiy Region",
+  "@navoiyRegion": {
+    "description": "Navoiy region name"
+  },
+  "samarkandRegion": "Samarkand Region",
+  "@samarkandRegion": {
+    "description": "Samarkand region name"
+  },
+  "tashkentRegion": "Tashkent Region",
+  "@tashkentRegion": {
+    "description": "Tashkent region name"
+  },
+  "namanganRegion": "Namangan Region",
+  "@namanganRegion": {
+    "description": "Namangan region name"
+  },
+  "ferganaRegion": "Fergana Region",
+  "@ferganaRegion": {
+    "description": "Fergana region name"
+  },
+  "khorezmRegion": "Khorezm Region",
+  "@khorezmRegion": {
+    "description": "Khorezm region name"
+  },
+  "surkhandaryaRegion": "Surkhandarya Region",
+  "@surkhandaryaRegion": {
+    "description": "Surkhandarya region name"
+  },
+  "syrdaryaRegion": "Syrdarya Region",
+  "@syrdaryaRegion": {
+    "description": "Syrdarya region name"
+  },
+  "regions": "Regions",
+  "@regions": {
+    "description": "Regions section title"
+  },
+  "allRegions": "All Regions",
+  "@allRegions": {
+    "description": "All regions section"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading text"
+  },
+  "openSettings": "Open Settings",
+  "@openSettings": {
+    "description": "Open settings button text"
+  }
+} 

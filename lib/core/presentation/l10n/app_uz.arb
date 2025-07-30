@@ -1,0 +1,115 @@
+{
+  "@@locale": "uz",
+  "appName": "PANDA",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "chooseLanguage": "Ilova tilini tanlang",
+  "@chooseLanguage": {
+    "description": "Text for language selection"
+  },
+  "uzbek": "O'zbekcha",
+  "@uzbek": {
+    "description": "Uzbek language option"
+  },
+  "russian": "Русский",
+  "@russian": {
+    "description": "Russian language option"
+  },
+  "continueText": "Davom etish",
+  "@continueText": {
+    "description": "Continue button text"
+  },
+  "allowLocationAccess": "Geolokatsiya ruxsatini bering",
+  "@allowLocationAccess": {
+    "description": "Location permission request title"
+  },
+  "locationDescription": "Shu tarzda sizga yaqin joydagi qiziqarli takliflar va yetkazib berish nuqtalarini ko'rsatamiz",
+  "@locationDescription": {
+    "description": "Location permission description"
+  },
+  "allowAccess": "Ruxsat berish",
+  "@allowAccess": {
+    "description": "Allow access button text"
+  },
+  "specifyLocation": "Manzilni ko'rsatish",
+  "@specifyLocation": {
+    "description": "Specify location button text"
+  },
+  "location": "Manzil",
+  "@location": {
+    "description": "Location page title"
+  },
+  "search": "Qidirish",
+  "@search": {
+    "description": "Search placeholder text"
+  },
+  "selectRegion": "Viloyatni tanlang",
+  "@selectRegion": {
+    "description": "Select region section title"
+  },
+  "andijanRegion": "Andijon viloyati",
+  "@andijanRegion": {
+    "description": "Andijan region name"
+  },
+  "bukharaRegion": "Buxoro viloyati",
+  "@bukharaRegion": {
+    "description": "Bukhara region name"
+  },
+  "jizzakhRegion": "Jizzax viloyati",
+  "@jizzakhRegion": {
+    "description": "Jizzakh region name"
+  },
+  "karakalpakstan": "Qoraqalpog'iston",
+  "@karakalpakstan": {
+    "description": "Karakalpakstan region name"
+  },
+  "navoiyRegion": "Navoiy viloyati",
+  "@navoiyRegion": {
+    "description": "Navoiy region name"
+  },
+  "samarkandRegion": "Samarqand viloyati",
+  "@samarkandRegion": {
+    "description": "Samarkand region name"
+  },
+  "tashkentRegion": "Toshkent viloyati",
+  "@tashkentRegion": {
+    "description": "Tashkent region name"
+  },
+  "namanganRegion": "Namangan viloyati",
+  "@namanganRegion": {
+    "description": "Namangan region name"
+  },
+  "ferganaRegion": "Farg'ona viloyati",
+  "@ferganaRegion": {
+    "description": "Fergana region name"
+  },
+  "khorezmRegion": "Xorazm viloyati",
+  "@khorezmRegion": {
+    "description": "Khorezm region name"
+  },
+  "surkhandaryaRegion": "Surxondaryo viloyati",
+  "@surkhandaryaRegion": {
+    "description": "Surkhandarya region name"
+  },
+  "syrdaryaRegion": "Sirdaryo viloyati",
+  "@syrdaryaRegion": {
+    "description": "Syrdarya region name"
+  },
+  "regions": "Viloyatlar",
+  "@regions": {
+    "description": "Regions section title"
+  },
+  "allRegions": "Barcha viloyatlar",
+  "@allRegions": {
+    "description": "All regions section"
+  },
+  "loading": "Yuklanmoqda...",
+  "@loading": {
+    "description": "Loading text"
+  },
+  "openSettings": "Sozlamalarni ochish",
+  "@openSettings": {
+    "description": "Open settings button text"
+  }
+} 
