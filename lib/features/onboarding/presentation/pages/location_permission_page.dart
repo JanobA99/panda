@@ -92,9 +92,10 @@ class _LocationPermissionPageState extends State<LocationPermissionPage> {
     
     return PopScope(
       canPop: true,
-      onPopInvoked: (didPop) {
+      onPopInvokedWithResult: (bool didPop, v) async {
         // Dismiss keyboard before popping
         FocusScope.of(context).unfocus();
+
       },
       child: GestureDetector(
         onTap: () {

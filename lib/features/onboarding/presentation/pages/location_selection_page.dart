@@ -84,7 +84,7 @@ class _LocationSelectionContentState extends State<_LocationSelectionContent> {
     
     return PopScope(
       canPop: true,
-      onPopInvoked: (didPop) {
+      onPopInvokedWithResult: (bool didPop, v) async {
         // Dismiss keyboard before popping
         FocusScope.of(context).unfocus();
       },
